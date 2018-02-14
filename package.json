@@ -1,0 +1,32 @@
+{
+  "name": "civisualize",
+  "version": "1.0.0",
+  "description": "Visualisation tool for civicrm based on d3, crossfilter and magic",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "crossfilter2": "^1.4.0",
+    "d3": "^3.5.17",
+    "dc": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechToThePeople/civisualize.git"
+  },
+  "keywords": [
+    "datavizualisation",
+    "civicrm"
+  ],
+  "author": "Xavier Dutoit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechToThePeople/civisualize/issues"
+  },
+  "homepage": "https://github.com/TechToThePeople/civisualize#readme"
+}
